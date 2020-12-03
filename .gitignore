@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# classpath file
+.classpath
+
 # Log file
 *.log
 
@@ -28,3 +31,5 @@ project/target
 .bsp
 .metals
 .bloop
+.gradle
+build
